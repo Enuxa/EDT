@@ -11,7 +11,7 @@
     - Horaire
     - Professeur
     - Salle
-    - Type de cours (TD / TP / CM / Conférence / Examen / Autre type à saisir)
+    - Type de cours (TD / TP / CM / Conférence / Examen / Job / Autre type à saisir)
     - *Optionnel* : Toutes les *n* semaines à partir d'une certaine semaine.
 
 
