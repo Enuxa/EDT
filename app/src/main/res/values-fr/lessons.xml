@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="matiere">Matière</string>
+    <string name="lesson_type">Type</string>
+    <string name="lesson_save">Enregistrer</string>
+</resources>

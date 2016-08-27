@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EDT</string>
+    <string name="matiere">Matière</string>
+    <string name="lesson_creation">Création de séance</string>
+    <string name="lesson_time">Horaire</string>
+    <string name="lesson_day">Jour</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+</resources>
